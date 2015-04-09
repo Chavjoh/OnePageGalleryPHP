@@ -1,0 +1,31 @@
+body {
+	font-family: 'Open Sans', Arial;
+	background-color: #3e3e3e;
+	color: white;
+	text-align: center;
+}
+
+.one-page-gallery {
+	width: 100%;
+	float: left;
+}
+
+.one-page-gallery img {
+	width: 100%;
+	height: auto;
+}
+
+.one-page-gallery figure {
+	display: block;
+	float: left;
+	margin: 0 5px 5px 0;
+	width: 150px;
+}
+
+.one-page-gallery figcaption {
+	display: none;
+}
+
+.pswp__caption__center {
+	text-align: center;
+}
